@@ -60,7 +60,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**  خيان خنيث خرقك مفتوح هههه  **[ " ${x} " ]`)
+        message.channel.send(`**   هارون يسلم عليكم **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -74,7 +74,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** انيك كس اختك ي هلهوله **[ " ${x} " ]`)
+        message.channel.send(`** كيف حال الحلوين ههه **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -90,7 +90,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**مصحلجي كلب هههه**[ " ${x} " ]`)
+        message.channel.send(`**هارون يسلم عليكم ههه**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
